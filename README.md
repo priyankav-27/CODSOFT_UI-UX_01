@@ -14,12 +14,7 @@ The signup flow design was created using Figma, a collaborative interface design
    - Implements validation to ensure that all required fields are filled out correctly.
    - Offers options for password strength indication and password visibility toggle.
 
-3. **Verification Screen:**
-   - Displays a verification code input field for users who opt for email or SMS verification.
-   - Generates and sends a verification code to the user's provided email or phone number.
-   - Allows users to request a new verification code if needed.
-
-4. **Confirmation Screen:**
+3. **Confirmation Screen:**
    - Confirms successful completion of the signup process.
    - Provides a call-to-action to proceed to the login screen.
 
