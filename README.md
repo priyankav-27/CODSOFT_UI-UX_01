@@ -1,4 +1,4 @@
-# Mobile User Signup Flow
+# Mobile App Signup Flow
 
 This README provides an overview of the mobile app signup flow designed in Figma. The signup flow aims to provide a seamless and intuitive experience for new users to create an account on our mobile application.
 
